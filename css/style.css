@@ -1,0 +1,22 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 125%;
+    background-color: #48a18e;
+    font-style: italic;
+  }
+  a{
+    color: #665333;
+  background-color: #122211;
+  }
+  h1{
+    color: #553355;
+    background-color: #122211;
+  }
+  h2{
+    color: #553355;
+    background-color: #122211;
+  }
+  h3{
+    color: #553355;
+    background-color: #122211;
+  }
